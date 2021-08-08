@@ -7,7 +7,7 @@ A simple media play list app for add/delete songs/playlists.
 [HTML file without image](/src/main/resources/templates/index.html)
 
 # Customize your default picture
-Default One, it may looks not great in Dark Mode.
+Default One, it may not look great in Dark Mode.
 
 ![Default One](/src/main/resources/templates/default.png)
 
