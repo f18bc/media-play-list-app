@@ -1,5 +1,6 @@
 # media-play-list-app
 
-# Test
-![Sample](/src/main/resources/templates)
-[Version without image html file](/src/main/resources/templates/index.html)
+# Example
+![Sample](/src/main/resources/templates/Sample.png)
+
+[HTML file without image](/src/main/resources/templates/index.html)
