@@ -1,2 +1,5 @@
 # media-play-list-app
-[Test](/src/main/resources/templates)
+
+# Test
+
+![Version without image](/src/main/resources/templates)
